@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="checkers/checkers.vcxproj" Id="2b55c1d2-a582-46c7-be36-a78060c5c9f5" />
+</Solution>
